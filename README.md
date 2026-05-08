@@ -69,13 +69,21 @@ Input Folder → Scan Files → Analyze → Classify → Organize into Folders
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 smart-file-organizer-ai/
-│── main.py
-│── organizer.py
-│── rules.py
+│── gui.py
 │── README.md
+│── dark-mode.png
+│── light-mode.png
+│── __pycache__/
+│
+└── Organized Files/
+    ├── Images/
+    ├── Documents/
+    ├── Videos/
+    ├── Music/
+    └── Others/
 
 ---
 
